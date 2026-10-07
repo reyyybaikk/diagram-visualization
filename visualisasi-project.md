@@ -1,10 +1,6 @@
 # 📊 Visualisasi Project — Sistem Monitoring BBM UPKAL2
 ### PLN Nusa Daya UP Kalimantan 2
 
-> Dokumen ini berisi prompt Mermaid (markdown) yang dapat langsung di-render menjadi diagram visual.
-> Paste ke **[mermaid.live](https://mermaid.live)**, **GitHub**, **Notion**, **Obsidian**, atau AI tools yang mendukung Mermaid.
-
----
 
 ## 1. Metodologi Waterfall
 
@@ -648,25 +644,7 @@ flowchart TD
     style Android fill:#FFF9C4,stroke:#F57F17,stroke-width:2px
 ```
 
----
 
-## 📝 Cara Menggunakan
-
-### Render di Mermaid Live Editor
-1. Buka **[mermaid.live](https://mermaid.live)**
-2. Copy salah satu blok kode `mermaid` di atas
-3. Paste di editor → diagram auto-render
-4. Download sebagai **SVG** atau **PNG**
-
-### Render di GitHub / Notion / Obsidian
-- Buat file `.md` → paste kode mermaid di dalam blok ` ```mermaid ``` `
-- Platform otomatis me-render diagram
-
-### Render di VS Code
-- Install extension **"Markdown Preview Mermaid Support"**
-- Buka file `.md` → Preview menampilkan diagram
-
----
 
 ## 📌 Ringkasan Teknologi (Updated)
 
